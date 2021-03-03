@@ -18,8 +18,7 @@ import Count from './components/Count'
 import TodoForm from './Todo/TodoForm'
 import ApiAx from './ApiAxios/ApiAx'
 import AddUser from './ApiAxios/AddUser'
-import ApiCall from './ApiSearch/ApiCall'
-import ShowSearch from './ApiSearch/ApiList'
+import ShowSearch from './ATask1/ShowSearch'
 
 class App extends Component {
   render(){
